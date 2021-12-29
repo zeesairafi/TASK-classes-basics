@@ -4,7 +4,7 @@ I this excercise, you are going to create couple of classes, create methods, pro
 
 ## Instructions
 
-**Fork** this repository and clone your fork (make sure you clone it into your `development` directory):
+[**Fork** this repository and clone your fork](https://github.com/JoinCODED/TASK-classes-basics) (make sure you clone it into your `development` directory):
 
 ```bash
 $ git clone https://github.com/<your_username>/JSFoundations-Classes-1.git
